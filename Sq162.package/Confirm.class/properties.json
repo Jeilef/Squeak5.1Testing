@@ -1,0 +1,14 @@
+{
+	"category" : "Sq162",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Confirm",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
